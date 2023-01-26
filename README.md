@@ -12,11 +12,12 @@ of the One-Class SVM with Enhanced Feature Spaces as well as our
 Variational Quantum One Class Classifier, including our artificial data generation and
 our experiments with different hyperparameter settings.
 
-* pennylaneLib-VQE-Dataset1.ipynb contains our implementation of a Variational Quantum Classifier.
+* pennylaneLib-VQE.ipynb contains our implementation of a Variational Quantum Classifier.
 
-* results/results.ipynb contains plots with our results from experiments on our artificial datasets.
+* results.ipynb contains plots with our results from experiments on our artificial datasets.
 
-* datasets is a pickle file with our artificial data, used in our Algorithm 1 and 2 notebooks.
+* datasets is a pickle file with our artificial data, used in our Algorithm 1 and 2 
+as well as the VQC notebooks.
 
 * cern_data contains json files with data from the CERN ghost track reconstruction.
 
